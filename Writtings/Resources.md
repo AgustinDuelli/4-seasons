@@ -26,8 +26,7 @@ Link: https://www.researchgate.net/profile/Stanton-Peale/publication/228687644_O
 Link: https://www.asc-csa.gc.ca/eng/astronomy/eclipses/lunar-eclipses.asp
 6. **Moon in Motion** (NASA)
 Link: https://eclipse.gsfc.nasa.gov/SEcat5/beselm.html
-
-7.**Types of Solar Eclipses** (NASA)
+7. **Types of Solar Eclipses** (NASA)
 Link: https://moon.nasa.gov/moon-in-motion/phases-eclipses-supermoons/eclipses/
 
 
