@@ -4,7 +4,9 @@ PowerPoint library
 
 # Images
 Friedrich Wilhelm Bessel (1839 painting)
+
 Eclipse glasses
+
 Albert Einstein in his office, Princeston University, New Jersey
 
 # Other resources
