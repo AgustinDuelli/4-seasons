@@ -7,7 +7,7 @@ Friedrich Wilhelm Bessel (1839 painting)
 Eclipse glasses
 Albert Einstein in his office, Princeston University, New Jersey
 
-#Other resources
+# Other resources
 1. **Planets in Chaos** by Ann Finkbeiner
 2. **Collision May Have Formed the Moon in Mere Hours, Simulations Reveal** by *Frank Tavares* (NASA) 
 3. **Origin and Evolution of the Natural Sattelites** by *S.J Peale*
