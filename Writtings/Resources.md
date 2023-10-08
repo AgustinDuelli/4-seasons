@@ -11,7 +11,7 @@ Albert Einstein in his office, Princeston University, New Jersey
 
 # Other resources
 1. **Planets in Chaos** by Ann Finkbeiner
-   Link: https://www.cita.utoronto.ca/wp-content/uploads/2014/07/511022a.compressed.pdf
+  . Link: https://www.cita.utoronto.ca/wp-content/uploads/2014/07/511022a.compressed.pdf
 
 2. **Collision May Have Formed the Moon in Mere Hours, Simulations Reveal** by *Frank Tavares* (NASA)
   Link: https://iopscience.iop.org/article/10.3847/2041-8213/ac8d96/pdf
