@@ -14,6 +14,10 @@ Albert Einstein in his office, Princeston University, New Jersey
    
   Link: https://www.cita.utoronto.ca/wp-content/uploads/2014/07/511022a.compressed.pdf
 
+2. **Immediate Origin of the Moon as a Post-impact Satellite**
+
+   Link: https://iopscience.iop.org/article/10.3847/2041-8213/ac8d96/pdf
+
 3. **Collision May Have Formed the Moon in Mere Hours, Simulations Reveal** by *Frank Tavares* (NASA)
    
   Link: https://iopscience.iop.org/article/10.3847/2041-8213/ac8d96/pdf
