@@ -33,9 +33,9 @@ Albert Einstein in his office, Princeston University, New Jersey
   Link: https://science.nasa.gov/eclipses/types/
 9. **Eclipse**
   Link: https://www.sidc.be/users/evarob/Literature/Papers/Solar%20Physics/2002%20EAA%20Pasachoff%20Eclipse.pdf
-10.**The Impact of Solar Eclipses on the Structure and Dynamics of Earth’s Upper Atmosphere**
+10. **The Impact of Solar Eclipses on the Structure and Dynamics of Earth’s Upper Atmosphere**
   Link: https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/the-impact-of-solar-eclipses-on-the-structure-and-dynamics-of-earths-upper-atmosphere/    
-11.**Eclipse Safety**
+11. **Eclipse Safety**
   Link: https://science.nasa.gov/eclipses/safety/  
 
 
